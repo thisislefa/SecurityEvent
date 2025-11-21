@@ -12,11 +12,12 @@ A responsive and visually engaging component designed for promoting community ev
 
 ## Live Demo
 
-[https://thisislefa.github.io/web-feature-03]
+https://thisislefa.github.io/web-feature-03
 
 ## Technologies Used
 
 - HTML5
 - Tailwind CSS (via CDN)
 - Google Fonts (Inter)
+
 
